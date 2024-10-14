@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_name">cau 1</string>
+    <string name="next_name">Tiếp theo</string>
+    <string name="true_name">True</string>
+    <string name="false_name">False</string>
+    <string name="string_true_name">Ban da tra loi dung</string>
+    <string name="string_false_name">Ban da tra loi sai</string>
+    <string name="quiz_name">cau 1</string>
+    <string name="quiz1_name">cau 2</string>
+    <string name="quiz2_name">cau 3</string>
+    <string name="quiz3_name">cau 4</string>
+    <string name="quiz4_name">cau 5</string>
+    <string name="name">Het cau hoi</string>
+
+
+</resources>
